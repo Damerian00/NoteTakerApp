@@ -41,7 +41,7 @@ notes.get('/', (req, res) => {
   
     const { title, text} = req.body;
   
-    if (req.body) {
+    if (title && text) {
       const newNote = {
         title,
         text,
