@@ -35,10 +35,10 @@
   <p align="center">
      A simple application that allows a user to make a short reminder for themselves and save it. Where they can later click on the title they gave it to see the note or delete it if they no longer need it.
     <br />
-    <a href="https://github.com/Damerian00/QuizBowl"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Damerian00/hwk09NoteTaker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://damerian00.github.io/QuizBowl/">View Demo</a>
+    <a href="https://aqueous-plains-08278.herokuapp.com/">View Demo</a>
     
 </p>
 
@@ -89,7 +89,7 @@
 
 Patrick - (https://github.com/Damerian00) - GitHub Name
 
-
+Project Link: [https://github.com/Damerian00/hwk09NoteTaker]
 
 
 
